@@ -2,18 +2,18 @@
 
 ### Fullstack developer wannabe
 
-- 🔭 I'm currently working on **🚀 Web & Mobile application for student violation points recording system Violations_Poins (https://github.com/Rizki-Anggraeni/Violation_Points-FE.git)**
+- 🔭 I'm currently working on 🚀 Web & Mobile application for student violation points recording system Violations_Poins (https://github.com/Rizki-Anggraeni/Violation_Points-FE.git)
 
-- 🌱 I'm currently learning **🎨 State management tools like Zustand or Redux Toolkit for complex web apps**
+- 🌱 I'm currently learning 🎨 State management tools like Zustand or Redux Toolkit for complex web apps
 
-- 👯 I'm looking to collaborate on **💻 Open-source web applications that need a dedicated Front-End Developer to clean up the UI and state management.**
+- 👯 I'm looking to collaborate on 💻 Open-source web applications that need a dedicated Front-End Developer to clean up the UI and state management.
 
-- 🤝 I'm looking for help with **🔒 Implementing advanced security authentication practices and performance profiling.**
+- 🤝 I'm looking for help with 🔒 Implementing advanced security authentication practices and performance profiling.
 
-- 📫 How to reach me **rizkiagung629@gmail.com**
+- 📫 How to reach me rizkiagung629@gmail.com
 
-- ⚡ Fun fact **-🚴‍♂️Unlike the stereotype, I don't just sit all day. When I'm not coding, you can find me cycling on my road bike or tweaking classic motorcycle engines.
-- 🦐Shrimp like a Demon King (I'm Alergic)**
+- ⚡ Fun fact🚴‍♂️Unlike the stereotype, I don't just sit all day. When I'm not coding, you can find me cycling on my road bike or tweaking classic motorcycle engines.
+- 🦐Shrimp like a Demon King (I'm Alergic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
